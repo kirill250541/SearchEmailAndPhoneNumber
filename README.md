@@ -1,10 +1,10 @@
 # searchemailandphonenumber
 
-Basic REST service
+1.Basic REST service
 - Создан и запущен локально простейший веб/REST сервис. 
 - Добавлен GET ендпоинт, принимающий входные параметры в качестве queryParams в URL, и возвращающий любой hard-coded результат в виде JSON (найденные Email и телефонные номера).
 
-Business logic service
+2.Business logic service
 - Добавлен сервис с бизнес логикой согласно варианту, добавлены HttpClient/RegEx.
 
 3.Basic “happy path” functionality
